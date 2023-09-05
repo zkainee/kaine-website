@@ -8,7 +8,7 @@ export default function Home() {
                 Hi
             </div>
             <div className={"flex-none pt-3 flex-grow font-normal text-5xl text-white"}>
-                I'm Kaine
+                Im Kaine
             </div>
             <div className={"flex-none pt-3 flex-grow font-normal text-2xl text-white"}>
                 Junior Software Developer
